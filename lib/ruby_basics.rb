@@ -9,7 +9,7 @@ end
 def argue
 
 end
-puts "I'm right and you are wrong!"
+
 
 def greeting
 
