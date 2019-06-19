@@ -7,7 +7,7 @@ value = "Bob"
 end
 
 def argue(number)
-number + 2
+number = "yes"
 end
 puts argue(3)
 
