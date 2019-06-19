@@ -7,7 +7,7 @@ value = "Bob"
 end
 
 def argue(decay)
-
+puts decay
 end
 
 def greeting
