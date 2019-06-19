@@ -6,7 +6,7 @@ def assign_variable(value)
 value = "Bob"
 end
 
-def argue
+def argue(xoxo)
 puts "I'm right and you are wrong!"
 end
 
