@@ -9,7 +9,6 @@ end
 def argue(number)
 number = "yes"
 end
-puts argue(3)
 
 def greeting
 
