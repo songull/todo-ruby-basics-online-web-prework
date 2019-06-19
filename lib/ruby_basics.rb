@@ -9,6 +9,7 @@ end
 def argue(number)
 number + 2
 end
+puts argue(3)
 
 def greeting
 
